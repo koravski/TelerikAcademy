@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HelloCSharp", "HelloCSharp\04.HelloCSharp.csproj", "{598C70B1-8484-42F9-8114-BDDBE5689C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintMyName", "PrintMyName\05.PrintMyName.csproj", "{38B41DF6-99AD-45CD-A5B3-A1A89A2A8271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PrintNumbers", "PrintNumbers\06.PrintNumbers.csproj", "{DEDDF919-FA73-4906-AE14-0DB995A8198E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PrintFirstAndLastName", "PrintFirstAndLastName\07.PrintFirstAndLastName.csproj", "{FE0F5F5A-F91D-4174-A011-2FF96960E105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SquareRoot", "SquareRoot\08.SquareRoot.csproj", "{3708C3AA-6CC4-45A3-8989-054F731FAF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PrintSequence", "PrintSequence\09.PrintSequence.csproj", "{11442856-F401-4674-83CE-FA0CA211E379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ReformatCSharpCode", "ReformatCSharpCode\10.ReformatCSharpCode.csproj", "{55B64E23-289B-442A-9080-91688F816C89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11.ProgrammingLanguages", "11.ProgrammingLanguages", "{75E2C5EC-16E5-4107-9CAF-349C374A0FDB}"
+	ProjectSection(SolutionItems) = preProject
+		programming-languages.txt = programming-languages.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.DevelopmentEnvironments", "12.DevelopmentEnvironments", "{3A7BCEEB-0C62-48C5-A013-34EF697F345B}"
+	ProjectSection(SolutionItems) = preProject
+		list-of-IDEs.txt = list-of-IDEs.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.CSharpAnd.NETDifferences", "13.CSharpAnd.NETDifferences", "{A2FEEB09-255A-4DD3-8C01-4A99ED3942C7}"
+	ProjectSection(SolutionItems) = preProject
+		csharp-and-dot-net-framework.txt = csharp-and-dot-net-framework.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CurrentDateAndTime", "CurrentDateAndTime\14.CurrentDateAndTime.csproj", "{7B3C606B-4635-423A-A879-60BA2C8C3956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.AgeAfter10Years", "AgeAfter10Years\15.AgeAfter10Years.csproj", "{267D0D30-84AB-47FB-B2BC-D17C21FAD7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.PrintLongSequence", "PrintLongSequence\16.PrintLongSequence.csproj", "{5E144E15-60AC-4AE9-AA52-D07D96F29D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11442856-F401-4674-83CE-FA0CA211E379}.Debug|x86.ActiveCfg = Debug|x86
+		{11442856-F401-4674-83CE-FA0CA211E379}.Debug|x86.Build.0 = Debug|x86
+		{11442856-F401-4674-83CE-FA0CA211E379}.Release|x86.ActiveCfg = Release|x86
+		{11442856-F401-4674-83CE-FA0CA211E379}.Release|x86.Build.0 = Release|x86
+		{267D0D30-84AB-47FB-B2BC-D17C21FAD7F0}.Debug|x86.ActiveCfg = Debug|x86
+		{267D0D30-84AB-47FB-B2BC-D17C21FAD7F0}.Debug|x86.Build.0 = Debug|x86
+		{267D0D30-84AB-47FB-B2BC-D17C21FAD7F0}.Release|x86.ActiveCfg = Release|x86
+		{267D0D30-84AB-47FB-B2BC-D17C21FAD7F0}.Release|x86.Build.0 = Release|x86
+		{3708C3AA-6CC4-45A3-8989-054F731FAF40}.Debug|x86.ActiveCfg = Debug|x86
+		{3708C3AA-6CC4-45A3-8989-054F731FAF40}.Debug|x86.Build.0 = Debug|x86
+		{3708C3AA-6CC4-45A3-8989-054F731FAF40}.Release|x86.ActiveCfg = Release|x86
+		{3708C3AA-6CC4-45A3-8989-054F731FAF40}.Release|x86.Build.0 = Release|x86
+		{38B41DF6-99AD-45CD-A5B3-A1A89A2A8271}.Debug|x86.ActiveCfg = Debug|x86
+		{38B41DF6-99AD-45CD-A5B3-A1A89A2A8271}.Debug|x86.Build.0 = Debug|x86
+		{38B41DF6-99AD-45CD-A5B3-A1A89A2A8271}.Release|x86.ActiveCfg = Release|x86
+		{38B41DF6-99AD-45CD-A5B3-A1A89A2A8271}.Release|x86.Build.0 = Release|x86
+		{55B64E23-289B-442A-9080-91688F816C89}.Debug|x86.ActiveCfg = Debug|x86
+		{55B64E23-289B-442A-9080-91688F816C89}.Debug|x86.Build.0 = Debug|x86
+		{55B64E23-289B-442A-9080-91688F816C89}.Release|x86.ActiveCfg = Release|x86
+		{55B64E23-289B-442A-9080-91688F816C89}.Release|x86.Build.0 = Release|x86
+		{598C70B1-8484-42F9-8114-BDDBE5689C69}.Debug|x86.ActiveCfg = Debug|x86
+		{598C70B1-8484-42F9-8114-BDDBE5689C69}.Debug|x86.Build.0 = Debug|x86
+		{598C70B1-8484-42F9-8114-BDDBE5689C69}.Release|x86.ActiveCfg = Release|x86
+		{598C70B1-8484-42F9-8114-BDDBE5689C69}.Release|x86.Build.0 = Release|x86
+		{5E144E15-60AC-4AE9-AA52-D07D96F29D10}.Debug|x86.ActiveCfg = Debug|x86
+		{5E144E15-60AC-4AE9-AA52-D07D96F29D10}.Debug|x86.Build.0 = Debug|x86
+		{5E144E15-60AC-4AE9-AA52-D07D96F29D10}.Release|x86.ActiveCfg = Release|x86
+		{5E144E15-60AC-4AE9-AA52-D07D96F29D10}.Release|x86.Build.0 = Release|x86
+		{7B3C606B-4635-423A-A879-60BA2C8C3956}.Debug|x86.ActiveCfg = Debug|x86
+		{7B3C606B-4635-423A-A879-60BA2C8C3956}.Debug|x86.Build.0 = Debug|x86
+		{7B3C606B-4635-423A-A879-60BA2C8C3956}.Release|x86.ActiveCfg = Release|x86
+		{7B3C606B-4635-423A-A879-60BA2C8C3956}.Release|x86.Build.0 = Release|x86
+		{DEDDF919-FA73-4906-AE14-0DB995A8198E}.Debug|x86.ActiveCfg = Debug|x86
+		{DEDDF919-FA73-4906-AE14-0DB995A8198E}.Debug|x86.Build.0 = Debug|x86
+		{DEDDF919-FA73-4906-AE14-0DB995A8198E}.Release|x86.ActiveCfg = Release|x86
+		{DEDDF919-FA73-4906-AE14-0DB995A8198E}.Release|x86.Build.0 = Release|x86
+		{FE0F5F5A-F91D-4174-A011-2FF96960E105}.Debug|x86.ActiveCfg = Debug|x86
+		{FE0F5F5A-F91D-4174-A011-2FF96960E105}.Debug|x86.Build.0 = Debug|x86
+		{FE0F5F5A-F91D-4174-A011-2FF96960E105}.Release|x86.ActiveCfg = Release|x86
+		{FE0F5F5A-F91D-4174-A011-2FF96960E105}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PrintLongSequence\16.PrintLongSequence.csproj
+	EndGlobalSection
+EndGlobal
