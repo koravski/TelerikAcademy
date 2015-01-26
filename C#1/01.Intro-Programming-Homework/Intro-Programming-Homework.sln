@@ -85,7 +85,4 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = PrintLongSequence\16.PrintLongSequence.csproj
-	EndGlobalSection
 EndGlobal

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Problem1DeclareVariables/Problem01DeclareVariables.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Problem11BankAccountData/Program.cs">
+    <Files>
+      <File FileName="Problem5BooleanVariable/Program.cs" Line="1" Column="1" />
+      <File FileName="Problem6StringsAndObjects/Program.cs" Line="1" Column="1" />
+      <File FileName="Problem7QuotesInStrings/Program.cs" Line="1" Column="1" />
+      <File FileName="Problem8IsoscelesTriangle/Program.cs" Line="1" Column="1" />
+      <File FileName="Problem9ExchangeVariableValues/Program.cs" Line="1" Column="1" />
+      <File FileName="Problem11BankAccountData/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
