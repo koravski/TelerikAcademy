@@ -1,0 +1,5 @@
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem17CalculateGCD\bin\Debug\Problem17CalculateGCD.exe.config
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem17CalculateGCD\bin\Debug\Problem17CalculateGCD.exe
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem17CalculateGCD\bin\Debug\Problem17CalculateGCD.pdb
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem17CalculateGCD\obj\Debug\Problem17CalculateGCD.exe
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem17CalculateGCD\obj\Debug\Problem17CalculateGCD.pdb

@@ -1,0 +1,5 @@
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe.config
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.pdb
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.exe
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.pdb

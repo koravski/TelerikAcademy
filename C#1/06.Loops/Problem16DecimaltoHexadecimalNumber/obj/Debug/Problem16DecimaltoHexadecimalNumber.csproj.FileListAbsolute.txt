@@ -1,0 +1,6 @@
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem16DecimaltoHexadecimalNumber\bin\Debug\Problem16DecimaltoHexadecimalNumber.exe.config
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem16DecimaltoHexadecimalNumber\bin\Debug\Problem16DecimaltoHexadecimalNumber.exe
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem16DecimaltoHexadecimalNumber\bin\Debug\Problem16DecimaltoHexadecimalNumber.pdb
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem16DecimaltoHexadecimalNumber\obj\Debug\Problem16DecimaltoHexadecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem16DecimaltoHexadecimalNumber\obj\Debug\Problem16DecimaltoHexadecimalNumber.exe
+C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem16DecimaltoHexadecimalNumber\obj\Debug\Problem16DecimaltoHexadecimalNumber.pdb
