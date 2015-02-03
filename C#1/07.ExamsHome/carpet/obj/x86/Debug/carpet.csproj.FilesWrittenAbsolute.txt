@@ -1,0 +1,5 @@
+/Users/jomyno/Projects/exam/carpet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jomyno/Projects/exam/carpet/bin/Debug/carpet.exe.mdb
+/Users/jomyno/Projects/exam/carpet/bin/Debug/carpet.exe
+/Users/jomyno/Projects/exam/carpet/obj/x86/Debug/carpet.exe
+/Users/jomyno/Projects/exam/carpet/obj/x86/Debug/carpet.exe.mdb
