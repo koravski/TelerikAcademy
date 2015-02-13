@@ -1,1 +1,0 @@
-/Users/jomyno/GitHub/TelerikAcademy/C#1/03.Operators-and-Expressions/OperatorsAndExpressions/Problem05ThirdDigitIs7?/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
