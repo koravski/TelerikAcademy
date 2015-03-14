@@ -1,5 +1,0 @@
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem18TrailingZeroesinN\bin\Debug\Problem18TrailingZeroesinN.exe.config
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem18TrailingZeroesinN\bin\Debug\Problem18TrailingZeroesinN.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem18TrailingZeroesinN\bin\Debug\Problem18TrailingZeroesinN.pdb
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem18TrailingZeroesinN\obj\Debug\Problem18TrailingZeroesinN.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem18TrailingZeroesinN\obj\Debug\Problem18TrailingZeroesinN.pdb

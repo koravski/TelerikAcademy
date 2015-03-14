@@ -1,6 +1,0 @@
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem2NumbersNotDivisibleby3and7\bin\Debug\Problem2NumbersNotDivisibleby3and7.exe.config
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem2NumbersNotDivisibleby3and7\bin\Debug\Problem2NumbersNotDivisibleby3and7.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem2NumbersNotDivisibleby3and7\bin\Debug\Problem2NumbersNotDivisibleby3and7.pdb
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem2NumbersNotDivisibleby3and7\obj\Debug\Problem02NumbersNotDivisibleby3and7.csprojResolveAssemblyReference.cache
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem2NumbersNotDivisibleby3and7\obj\Debug\Problem2NumbersNotDivisibleby3and7.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem2NumbersNotDivisibleby3and7\obj\Debug\Problem2NumbersNotDivisibleby3and7.pdb

@@ -1,5 +1,0 @@
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem08CatalanNumbers\bin\Debug\Problem08CatalanNumbers.exe.config
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem08CatalanNumbers\bin\Debug\Problem08CatalanNumbers.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem08CatalanNumbers\bin\Debug\Problem08CatalanNumbers.pdb
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem08CatalanNumbers\obj\Debug\Problem08CatalanNumbers.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem08CatalanNumbers\obj\Debug\Problem08CatalanNumbers.pdb

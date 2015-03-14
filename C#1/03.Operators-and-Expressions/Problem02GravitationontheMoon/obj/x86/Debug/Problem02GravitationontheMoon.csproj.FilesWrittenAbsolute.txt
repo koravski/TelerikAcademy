@@ -1,5 +1,0 @@
-/Users/jomyno/GitHub/TelerikAcademy/C#1/03.Operators-and-Expressions/OperatorsAndExpressions/Problem02GravitationontheMoon/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/jomyno/GitHub/TelerikAcademy/C#1/03.Operators-and-Expressions/OperatorsAndExpressions/Problem02GravitationontheMoon/bin/Debug/Problem02GravitationontheMoon.exe.mdb
-/Users/jomyno/GitHub/TelerikAcademy/C#1/03.Operators-and-Expressions/OperatorsAndExpressions/Problem02GravitationontheMoon/bin/Debug/Problem02GravitationontheMoon.exe
-/Users/jomyno/GitHub/TelerikAcademy/C#1/03.Operators-and-Expressions/OperatorsAndExpressions/Problem02GravitationontheMoon/obj/x86/Debug/Problem02GravitationontheMoon.exe
-/Users/jomyno/GitHub/TelerikAcademy/C#1/03.Operators-and-Expressions/OperatorsAndExpressions/Problem02GravitationontheMoon/obj/x86/Debug/Problem02GravitationontheMoon.exe.mdb

@@ -1,6 +1,0 @@
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem04PrintDeckof52Cards\bin\Debug\Problem04PrintDeckof52Cards.exe.config
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem04PrintDeckof52Cards\obj\Debug\Problem04PrintDeckof52Cards.csprojResolveAssemblyReference.cache
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem04PrintDeckof52Cards\bin\Debug\Problem04PrintDeckof52Cards.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem04PrintDeckof52Cards\bin\Debug\Problem04PrintDeckof52Cards.pdb
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem04PrintDeckof52Cards\obj\Debug\Problem04PrintDeckof52Cards.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem04PrintDeckof52Cards\obj\Debug\Problem04PrintDeckof52Cards.pdb

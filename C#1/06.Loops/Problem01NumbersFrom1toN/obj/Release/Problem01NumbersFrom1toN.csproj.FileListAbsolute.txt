@@ -1,5 +1,0 @@
-c:\users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem01NumbersFrom1toN\bin\Release\Problem01NumbersFrom1toN.exe.config
-c:\users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem01NumbersFrom1toN\bin\Release\Problem01NumbersFrom1toN.exe
-c:\users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem01NumbersFrom1toN\bin\Release\Problem01NumbersFrom1toN.pdb
-c:\users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem01NumbersFrom1toN\obj\Release\Problem01NumbersFrom1toN.exe
-c:\users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem01NumbersFrom1toN\obj\Release\Problem01NumbersFrom1toN.pdb

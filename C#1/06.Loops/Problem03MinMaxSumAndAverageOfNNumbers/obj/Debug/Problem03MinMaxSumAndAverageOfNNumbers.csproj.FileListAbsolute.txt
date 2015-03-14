@@ -1,5 +1,0 @@
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem03MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem03MinMaxSumAndAverageOfNNumbers.exe.config
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem03MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem03MinMaxSumAndAverageOfNNumbers.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem03MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem03MinMaxSumAndAverageOfNNumbers.pdb
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem03MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem03MinMaxSumAndAverageOfNNumbers.exe
-C:\Users\jomyno\documents\visual studio 2013\Projects\06.Loops\Problem03MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem03MinMaxSumAndAverageOfNNumbers.pdb

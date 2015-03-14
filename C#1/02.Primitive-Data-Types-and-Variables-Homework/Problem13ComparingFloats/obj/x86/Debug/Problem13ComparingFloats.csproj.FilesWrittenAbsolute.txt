@@ -1,5 +1,0 @@
-/Users/jomyno/GitHub/TelerikAcademy/C#1/02.Primitive-Data-Types-and-Variables-Homework/Primitive-Data-Types-and-Variables-Homework/Problem13ComparingFloats/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/jomyno/GitHub/TelerikAcademy/C#1/02.Primitive-Data-Types-and-Variables-Homework/Primitive-Data-Types-and-Variables-Homework/Problem13ComparingFloats/bin/Debug/Problem13ComparingFloats.exe.mdb
-/Users/jomyno/GitHub/TelerikAcademy/C#1/02.Primitive-Data-Types-and-Variables-Homework/Primitive-Data-Types-and-Variables-Homework/Problem13ComparingFloats/bin/Debug/Problem13ComparingFloats.exe
-/Users/jomyno/GitHub/TelerikAcademy/C#1/02.Primitive-Data-Types-and-Variables-Homework/Primitive-Data-Types-and-Variables-Homework/Problem13ComparingFloats/obj/x86/Debug/Problem13ComparingFloats.exe
-/Users/jomyno/GitHub/TelerikAcademy/C#1/02.Primitive-Data-Types-and-Variables-Homework/Primitive-Data-Types-and-Variables-Homework/Problem13ComparingFloats/obj/x86/Debug/Problem13ComparingFloats.exe.mdb
