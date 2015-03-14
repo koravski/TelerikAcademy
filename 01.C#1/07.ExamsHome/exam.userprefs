@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="probi3/probi3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="probi3/Program.cs">
+    <Files>
+      <File FileName="probi/Program.cs" Line="1" Column="1" />
+      <File FileName="carpet/Program.cs" Line="1" Column="1" />
+      <File FileName="probi2/Program.cs" Line="1" Column="1" />
+      <File FileName="probi3/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
