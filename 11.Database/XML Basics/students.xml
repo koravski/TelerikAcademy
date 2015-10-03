@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="stylesheet.xslt" ?>
+<students xmlns:students="urn:students-school-academy-com:thinker">
+  <student>
+    <name>Ivan Ivanov</name>
+    <sex>Male</sex>
+    <birthDate>1988-03-03</birthDate>
+    <phone>+359888888888</phone>
+    <email>ivan@ivanov.com</email>
+    <course>Philosophy</course>
+    <specialty>Thinker</specialty>
+    <facultyNumber>007</facultyNumber>
+  <exams>
+    <exam>
+      <name>OPA</name>
+      <tutor>Plato</tutor>
+      <score>66</score>
+    </exam>
+  <exam>
+      <name>OPA2</name>
+      <tutor>Blake</tutor>
+      <score>69</score>
+    </exam>
+  </exams>
+ </student>
+  <student>
+    <name>Jason Born</name>
+    <sex>Male</sex>
+    <birthDate>1987-03-03</birthDate>
+    <phone>+359999999999</phone>
+    <email>jason@born.com</email>
+    <course>Math</course>
+    <specialty>Thinker</specialty>
+    <facultyNumber>008</facultyNumber>
+  <exams>
+    <exam>
+      <name>C#</name>
+      <tutor>Niki Kenov</tutor>
+      <score>669</score>
+    </exam>
+     <exam>
+      <name>C#2</name>
+      <tutor>Doncho Kostov</tutor>
+      <score>661</score>
+    </exam>
+  </exams>
+    </student>
+</students>

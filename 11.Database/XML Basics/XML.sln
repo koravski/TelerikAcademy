@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC87F1CD-BA6D-4A4E-A96C-5BB9EB4300A3}"
+	ProjectSection(SolutionItems) = preProject
+		Answers.txt = Answers.txt
+		students.xml = students.xml
+		students.xsd = students.xsd
+		stylesheet.xslt = stylesheet.xslt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
