@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>Beyond Magnetic</name>
+    <artist>Metallica</artist>
+    <year>2012</year>
+    <producer>Rick Rubin</producer>
+    <price>15</price>
+    <songs>
+      <title>Hate Trai</title>
+      <duration>6:59</duration>
+    </songs>
+    <songs>
+      <title>Just a Bullet Away</title>
+      <duration>7:11</duration>
+    </songs>
+    <songs>
+      <title>Hell and Back</title>
+      <duration>6:57</duration>
+    </songs>
+    <songs>
+      <title>Rebel of Babylon</title>
+      <duration>8:02</duration>
+    </songs>
+  </album>
+  <album>
+    <name>American Tragedy</name>
+    <artist>Hollywood Undead</artist>
+    <year>2011</year>
+    <producer>Don Gilmore</producer>
+    <price>17</price>
+    <songs>
+      <title>Been to Hell</title>
+      <duration>3:23</duration>
+    </songs>
+    <songs>
+      <title>Apologize</title>
+      <duration>3:27</duration>
+    </songs>
+    <songs>
+      <title>My Town</title>
+      <duration>3:36</duration>
+    </songs>
+    <songs>
+      <title>Hear Me Now</title>
+      <duration>3:34</duration>
+    </songs>
+    <songs>
+      <title>Lights Out</title>
+      <duration>3:51</duration>
+    </songs>
+  </album>
+</catalogue>

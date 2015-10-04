@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>Beyond Magnetic</name>
+    <artist>Metallica</artist>
+  </album>
+  <album>
+    <name>Metamorphosis</name>
+    <artist>Papa Roach</artist>
+  </album>
+  <album>
+    <name>American Tragedy</name>
+    <artist>Hollywood Undead</artist>
+  </album>
+  <album>
+    <name>Swan Songs</name>
+    <artist>Hollywood Undead</artist>
+  </album>
+</catalog>

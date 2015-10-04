@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dir path="C:\Users\ivan\Pictures">
+  <dir path="C:\Users\ivan\Pictures\Camera Roll">
+    <file name="desktop" ext=".ini" />
+  </dir>
+  <dir path="C:\Users\ivan\Pictures\Saved Pictures">
+    <file name="desktop" ext=".ini" />
+  </dir>
+  <dir path="C:\Users\ivan\Pictures\Screenshots">
+    <file name="desktop" ext=".ini" />
+  </dir>
+  <dir path="C:\Users\ivan\Pictures\Slide Shows">
+    <file name="desktop" ext=".ini" />
+  </dir>
+  <file name="desktop" ext=".ini" />
+</dir>
